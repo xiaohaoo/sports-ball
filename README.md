@@ -11,5 +11,5 @@
 
 ## 预览
 
-<img src="doc/video.gif" width="50%">
+<img src="doc/video.gif" width="350px">
 
