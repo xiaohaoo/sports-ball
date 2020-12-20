@@ -13,5 +13,5 @@ effect: **speed decomposition**.
 
 ## Preview
 
-<img src="doc/video.gif " width="25%">
+<img src="doc/video.gif " width="35%">
 
