@@ -8,4 +8,5 @@
 
 
 ## 预览
-![](doc/video.gif)
+
+<img src="doc/video.gif" width="50%">
