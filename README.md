@@ -8,6 +8,9 @@
 
 小球边界反弹以及万有引力效果的原理：**速度分解**。
 
+## 开发技术
+1. SurfaceView（或者TextureView、GLSurfaceView）显示
+2. Canvas绘图
 
 ## 预览
 
